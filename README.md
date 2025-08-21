@@ -1,0 +1,1 @@
+# chapter6-function-inside-outside-Inline-concept-Data-hiding-Invarient-
